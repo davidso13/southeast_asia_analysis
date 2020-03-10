@@ -1,0 +1,94 @@
+Excavate basement (m
+3) (1800m
+3 job) 
+22 5 
+Excavate footings (m) 
+30 7 
+Concrete in slab (m
+3) (1500m
+3 job) 
+350 85 
+Reinforcement in beams (tonne) 
+3,800 920 
+
+2) 45 11 
+Blockwork in wall (m
+2) (10,000 block job) 
+58 14 
+Structural steel beams (tonne) 
+10,500 2,542 
+Pre-cast concrete wall (m
+2) 250 61 
+Curtain wall glazing incl support system (m
+2) (1000m
+2 job) 
+2,250 545 
+Plasterboard 13mm thick to stud wall (m
+2) (3000m
+2 job) 
+150 36 
+Single solid core door incl frame and hardware (no) (50 door job) 
+3,000 726 
+Painting to walls primer + 2 coats (m
+2) 10 2 
+Ceramic tiling (m
+2) (1000m
+2 job) 
+130 32 
+
+2) (500m
+2 job) 
+235 57 
+Carpet medium tufted (m
+2) (4500m
+2 job) 
+135 33 
+Lighting installation (m
+2) (5000m
+2 + job) 
+175 42 
+Copper pipe 15mm to wall (m) (1000m + job) 
+35 8 
+Fire sprinklers (per m
+2) (5000m
+2 job) 
+135 33 
+Air conditioning incl main plant (m
+2) (5000m
+2 + job) 
+325 79 
+Labour costs, per hour
+Group 1 Tradesman eg plumber, electrician 
+32 8 
+Group 2 Tradesman eg carpenter, bricklayer 
+25 6 
+Group 3 Tradesman eg carpet layer, tiler, plasterer 25 6 
+General labourer 
+12 3 
+Site foreman 
+45 11 
+Material costs 
+Concrete 30 MPa (m
+3) (1500m
+3 job) 
+220 53 
+Reinforcement bar 16mm (tonne) (120 tonne job) 3,300 799 
+Concrete block (400x200) per 1000 (>10,000 block job) 2,815 682 
+Standard brick per 1000 
+425 103 
+Structural steel beams (tonne) (100 tonne + job) 9,500 2,300 
+
+Glass pane 10mm tempered (m
+2) 285 69 
+Softwood timber for framing 100mm X 50mm (m) 
+17 4 
+13 mm plasterboard (m
+2) 30 7 
+Emulsion paint (litre) 
+15 4 
+Copper pipe 15 mm (metre) (1000m + job) 
+31 8 
+Copper cable (metre) (3C + E, 2.5mm PVC) (100,000m + job) 20 5 
+Plant costs 
+Hire 50t mobile crane + operator (day) 
+2,500 605
